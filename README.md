@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, my name is Justin Ham!
+
+I am currently a 3rd year Computing Science student at the University of Alberta, with a keen interest on systems level programming, low level architecture, and software engineering. 
 
 <!--
 **jham06/jham06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
